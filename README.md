@@ -1,6 +1,6 @@
 ### Olá, meu nome é Abel.
 
-👨‍💻 Desenvolvedor Front-end | UX & Design.
+👨‍💻 Desenvolvedor Front-end | UX & Designer.
 
 ⚡ Responsável por tornar a sua experiência mais agradável e otimizada.
 
