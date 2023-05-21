@@ -4,7 +4,7 @@
 
 ⚡ Responsável por tornar a sua experiência mais agradável e otimizada.
 
-💡 | Habilidades em lógica de programação, consigo manipular o **DOM** utilizando o **Javascript** puro.
+💡  Habilidades em lógica de programação, consigo manipular o **DOM** utilizando o **Javascript** puro.
 
 
 
