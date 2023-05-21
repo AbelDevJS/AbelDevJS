@@ -1,10 +1,10 @@
 ### Olá, meu nome é Abel.
 
-👨‍💻 | Desenvolvedor Front-end com habilidades em : **HTML |  CSS  | JAVASCRIPT | ADOBE PHOTOSHOP | UX & DESIGN.**   
+👨‍💻 Desenvolvedor Front-end | UX & Design.
 
-🎯 | Estudando **Javascript** até se tornar fluente nessa linguagem de programação.
+⚡ Responsável por tornar a sua experiência mais agradável e otimizada.
 
-💡 |  Habilidades em lógica de programação, consigo manipular o **DOM** utilizando o **Javascript** puro.
+💡 | Habilidades em lógica de programação, consigo manipular o **DOM** utilizando o **Javascript** puro.
 
 
 
