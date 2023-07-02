@@ -20,9 +20,9 @@ Olá! Meu nome é Abel Alves e sou um Desenvolvedor Front-End. Tenho 19 anos e e
 
 ## Projetos Destacados
 
-- **Projeto 1:** [Tela de Login - Avançada](https://github.com/AbelDevJS/Tela-de-Login-Elegante): Tela de Login - Elegante & Minimalista.
-- **Projeto 2:** [Relógio Digital - JavaScript](https://github.com/AbelDevJS/RelogioDigital): Relógio Digital & Dinâmico.
-- **Projeto 3:** [To-do-List](https://github.com/AbelDevJS/ToDoList): To-do-List - Uma ferramenta para te ajudar a organizar o seu o dia-a-dia.
+-  [Tela de Login - Avançada](https://github.com/AbelDevJS/Tela-de-Login-Elegante): Tela de Login - Elegante & Minimalista.
+-  [Relógio Digital - JavaScript](https://github.com/AbelDevJS/RelogioDigital): Relógio Digital & Dinâmico.
+-  [To-do-List](https://github.com/AbelDevJS/ToDoList): To-do-List - Uma ferramenta para te ajudar a organizar o seu o dia-a-dia.
 
 ## Contato
 
