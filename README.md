@@ -29,7 +29,7 @@ Olá! Meu nome é Abel Alves e sou um Desenvolvedor Front-End. Tenho 19 anos e e
 Você pode entrar em contato comigo por meio dos seguintes canais:
 
 - Email: [suportabel.editing@gmail.com](suportabel.editing@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/abelthedev/](https://www.linkedin.com/in/abelthedev/)
+- Links: [https://linktr.ee/abelthedev][(https://www.linkedin.com/in/abelthedev/](https://linktr.ee/abelthedev))
 
 Fique à vontade para me contatar se tiver alguma pergunta, oportunidade de trabalho ou apenas para dizer "Olá, Abel!"
 
